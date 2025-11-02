@@ -1,4 +1,4 @@
-# CONTENTS
+# Contents
 
 1. Introduction
 2. Instructions
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. INTRODUCTION
+## 1. Introduction
 
 Introducing NetHack Medieval: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail to provide a rich experience when viewing one room at a time — win / win!
 
@@ -15,7 +15,7 @@ Based on NetHack Modern by Tower Hufham, this set likewise uses graphics from th
 
 ---
 
-## 2. INSTRUCTIONS
+## 2. Instructions
 
 To install, simply unzip to your NetHack program directory, and add the following line to the “.nethackrc” file in your user folder:
 
@@ -34,7 +34,7 @@ I have provided all of the above, which I believe covers most standard screens. 
 
 ---
 
-## 3. WHY THIS PROJECT
+## 3. Why This Project
 
 I was using NetHack Modern when I noticed it had several flaws. For example:
 
@@ -55,7 +55,7 @@ FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Ti
 
 ---
 
-## 4. LOOKING FORWARD
+## 4. Looking Forward
 
 I originally had unique tiles for all the gems (including worthless ones); all four bags and gray stones; the real & fake amulets of Yendor; both flutes, harps, whistles, candles, lamps; the cornuthaum & dunce cap. The amber stone even had a fossilized mosquito in it. 🙂 Alas, this caused my tiles to contain spoilers! (You could identify these items just by looking at them.) So I had to build in some redundancy, as in every other tileset out there. 😕
 
