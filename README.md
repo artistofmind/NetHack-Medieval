@@ -39,7 +39,7 @@ I have provided all of the above, which I believe covers most standard screens. 
 I was using NetHack Modern when I noticed it had several flaws. For example:
 
 - No two purple tiles were the same color (just really close).
-- Some icons were identical to others. E.g. you couldn’t tell a master lich from an arch-lich, or a baby worm from an adult one. You also couldn’t tell an open door from a doorway, so sometimes I tried closing a door that wasn’t there. ^_^
+- Some icons were identical to others. E.g. you couldn’t tell a master lich from an arch-lich, or a baby worm from an adult one. You also couldn’t tell an open door from a doorway, so sometimes I tried closing a door that wasn’t there. 😊
 - Some icons were clearly placeholders. E.g. unicorns & ki-rins were just regular horses.
 - Some icons were missing altogether. E.g. there was no unique stethoscope or lockpick.
 - Rays & explosions merely repeated one tile each, regardless of direction.
