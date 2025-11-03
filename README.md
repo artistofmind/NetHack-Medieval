@@ -23,7 +23,7 @@ To install, simply unzip to your _NetHack_ program directory, and add the follow
 
 > OPTIONS=tile_file:NetHack Medieval 64x-367.bmp,tile_width=64,tile_height=64
 
-(Replacing “64” with any other size as appropriate.) _NetHack_ is 80 tiles wide when fit to screen, so simply divide your screen width by 80 to get the size you need for the game to render at 1:1. FYI:
+(Replacing “64” with any other size, as appropriate.) _NetHack_ is 80 tiles wide when fit to screen, so simply divide your screen width by 80 to get the size you need for the game to render at 1:1. FYI:
 
 - 1080p (1920 w) = 24x
 - 1440p (2560 w) = 32x
