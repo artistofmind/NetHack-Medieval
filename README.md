@@ -11,9 +11,9 @@
 
 ## 1. Introduction
 
-Presenting NetHack Medieval: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. 😎 Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail here to provide a rich experience when viewing one room at a time — win / win! (Who said you couldn’t have your cake and eat it, too? 😛)
+Presenting _NetHack Medieval_: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. 😎 Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail here to provide a rich experience when viewing one room at a time — win / win! (Who said you couldn’t have your cake and eat it, too? 😛)
 
-Based on NetHack Modern by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin a second head. Because ettins are two-headed giants, as every Monty Python fan knows. 😉 *“All right, not biscuits. But let’s kill him anyway!”*)
+Based on _NetHack Modern_ by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin a second head. Because ettins are two-headed giants, as every Monty Python fan knows. 😉 *“All right, not biscuits. But let’s kill him anyway!”*)
 
 ---
 
@@ -32,7 +32,7 @@ To install, simply unzip to your NetHack program directory, and add the followin
 - 8k (7680 w) = 96x
 - 10k (10240 w) = 128x
 
-I have provided all of the above, which I believe covers most standard screens. If you need something unusual, simply downsample the 10k tiles using a high-quality resampler, like the Lanczos filter in the free program IrfanView. (Divide the target width by 40, and there’s your tile size.)
+I have provided all of the above, which I believe covers most standard screens. If you need something unusual, simply resize the 10k tiles using a high-quality resampler, like the Lanczos filter in the free program IrfanView. (Divide the target width by 40, and there’s your tile size. 🙂)
 
 ---
 
@@ -42,16 +42,16 @@ I was using NetHack Modern when I noticed it had several flaws. For example:
 
 - No two purple tiles were the same color (just really close).
 - Some icons were identical to others. E.g. you couldn’t tell a master lich from an arch-lich, or a baby worm from an adult one. You also couldn’t tell an open door from a doorway, so sometimes I tried closing a door that wasn’t there. 😊
-- Some icons were clearly just placeholders. E.g. unicorns & ki-rins were simply regular horses.
+- Some icons were clearly just placeholders. E.g. unicorns & ki-rins were only regular horses.
 - Some icons were missing altogether. E.g. there was no unique stethoscope or lockpick.
 - Rays & explosions merely repeated one tile each, regardless of direction.
 - Statues were simply a copy-paste of the first section converted to grayscale. This meant their values differed wildly, with e.g. statues of white monsters still appearing white, and red ones looking blacker than “black” — making it hard to tell if something even was a statue!
-- Some tiles were simply incorrect. E.g. the Chromatic Dragon was an @ symbol; the quadrupeds were mostly crocodile heads; the corpses of puddings & oozes looked more alive than before they were killed (the “glob” gained a face); and the “strange monster” was accidentally duplicated after the statues. (One tile too many.)
+- Some tiles were simply incorrect. E.g. the Chromatic Dragon was an @ symbol; the quadrupeds were mostly crocodile heads; the corpses of puddings & oozes looked more alive than before they were killed (the “glob” gains a face); and the “strange monster” was accidentally duplicated after the statues. (One tile too many.)
 - The tiles labeled “96x” were actually 128x.
 
-Etc. (By no means a comprehensive list, heh.)
+Etc. (By no means a comprehensive list! Heh.)
 
-Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with NetHack Modern, despite getting most artwork from the same source; hence I’ve called this spinoff NetHack Medieval, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate.) 😀
+Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with NetHack Modern, despite getting most artwork from the same source; hence I’ve called this spinoff NetHack Medieval, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 😛)
 
 FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Tileset#Default_tileset) is incomplete, and their [list of tiles](https://nethack.fandom.com/wiki/List_of_vanilla_NetHack_tiles) is slightly out of order. To be sure mine were exactly right, I tested everything myself in game, using the latest version of NetHack. All of this research & editing took me about a month, so you’re welcome!
 
