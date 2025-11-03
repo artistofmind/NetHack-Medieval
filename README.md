@@ -49,7 +49,9 @@ I was using NetHack Modern when I noticed it had several flaws. For example:
 - Some tiles were simply incorrect. E.g. the Chromatic Dragon was an @ symbol; the quadrupeds were mostly crocodile heads; the corpses of puddings & oozes looked more alive than before they were killed (the “glob” gains a face); and the “strange monster” was accidentally duplicated after the statues. (One tile too many.)
 - The tiles labeled “96x” were actually 128x.
 
-Etc. (By no means a comprehensive list! Heh.) Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with _NetHack Modern_, despite getting most artwork from the same source; hence I’ve called this spinoff _NetHack Medieval_, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
+Etc. (By no means a comprehensive list! Heh.)
+
+Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with _NetHack Modern_, despite getting most artwork from the same source; hence I’ve called this spinoff _NetHack Medieval_, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
 
 FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Tileset#Default_tileset) is incomplete, and their [list of tiles](https://nethack.fandom.com/wiki/List_of_vanilla_NetHack_tiles) is slightly out of order. To be sure mine were exactly right, I tested everything myself in game, using the latest version of NetHack. All of this research & editing took me about a month, so you’re welcome!
 
