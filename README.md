@@ -11,19 +11,19 @@
 
 ## 1. Introduction
 
-Presenting _NetHack Medieval_: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. 😎 Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail here to provide a rich experience when viewing one room at a time — win / win! (Who said you couldn’t have your cake and eat it, too? 😛)
+Presenting **NetHack Medieval**: a complete tileset for _[NetHack](https://www.nethack.org)_ 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. 😎 Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. 👍 It’s designed to be legible when viewing the whole map at once, yet there’s enough detail here to provide a rich experience when viewing one room at a time — win / win! (Who said you couldn’t have your cake and eat it, too? 😛)
 
-Based on _NetHack Modern_ by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin a second head. Because ettins are two-headed giants, as every Monty Python fan knows. 😉 *“All right, not biscuits. But let’s kill him anyway!”*)
+Based on **NetHack Modern** by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin a second head, since ettins are two-headed giants, as every Monty Python fan knows. 😉 *“All right, not biscuits. But let’s kill him anyway!”*)
 
 ---
 
 ## 2. Instructions
 
-To install, simply unzip to your NetHack program directory, and add the following line to the <code>.nethackrc</code> file in your user folder:
+To install, simply unzip to your _NetHack_ program directory, and add the following line to the <code>.nethackrc</code> file in your user folder:
 
 > OPTIONS=tile_file:NetHack Medieval 64x-367.bmp,tile_width=64,tile_height=64
 
-(Replacing “64” with any other size as appropriate.) NetHack is 80 tiles wide when fit to screen, so simply divide your screen width by 80 to get the size you need for the game to render at 1:1. FYI:
+(Replacing “64” with any other size as appropriate.) _NetHack_ is 80 tiles wide when fit to screen, so simply divide your screen width by 80 to get the size you need for the game to render at 1:1. FYI:
 
 - 1080p (1920 w) = 24x
 - 1440p (2560 w) = 32x
@@ -32,7 +32,7 @@ To install, simply unzip to your NetHack program directory, and add the followin
 - 8k (7680 w) = 96x
 - 10k (10240 w) = 128x
 
-I have provided all of the above, which I believe covers most standard screens. If you need something unusual, simply resize the 10k tiles using a high-quality resampler, like the Lanczos filter in the free program IrfanView. (Divide the target width by 40, and there’s your tile size. 🙂)
+I have provided all of the above, which I believe covers most standard screens. If you need something unusual, simply resize the 10k tiles using a high-quality resampler, like the **Lanczos** filter in the free program [IrfanView](https://www.irfanview.com). (Divide the target width by 40, and there’s your tile size. 🙂)
 
 ---
 
@@ -51,7 +51,7 @@ I was using NetHack Modern when I noticed it had several flaws. For example:
 
 Etc. (By no means a comprehensive list! Heh.)
 
-Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with _NetHack Modern_, despite getting most artwork from the same source; hence I’ve called this spinoff _NetHack Medieval_, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
+Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with NetHack Modern, despite deriving most artwork from the same source; hence I’ve called this spinoff NetHack Medieval, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
 
 FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Tileset#Default_tileset) is incomplete, and their [list of tiles](https://nethack.fandom.com/wiki/List_of_vanilla_NetHack_tiles) is slightly out of order. To be sure mine were exactly right, I tested everything myself in game, using the latest version of NetHack. All of this research & editing took me about a month, so you’re welcome!
 
