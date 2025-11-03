@@ -65,7 +65,7 @@ Perhaps a future version of NetHack will always show the first icon till an item
 
 Game-icons.net also has some pictures I really wanted to use, but couldn’t. For instance, they have an image specifically for holy water. It would be so cool if a future version of NetHack has three different “clear potion” tiles, defaults to the uncursed one and only changes when it’s identified as either blessed or cursed. If and when that day comes, I am ready to update this set accordingly. 🙂
 
-Likewise, it would be nice if wand rays could be bi-directional along each axis, but I’d need twice as many tile slots to achieve that. (As it is, they always read from West–East / South–North.) I guess it’s safe to say NetHack Medieval isn’t just complete, it’s more-than-complete: I would have added even more variety if I’d been allowed to!
+Likewise, it would be nice if wand rays could be bi-directional along each axis, but I’d need twice as many tile slots to achieve that. (As it is, they always read from West–East / South–North.) I guess it’s safe to say _NetHack Medieval_ isn’t just complete, it’s more-than-complete: there would be even more variety if it were allowed!
 
 Be assured I will keep this tileset up to date for as long as I’m alive and able. So when a new version of NetHack adds more tiles, so will I. 🙂
 
