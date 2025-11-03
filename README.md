@@ -51,7 +51,7 @@ I was using NetHack Modern when I noticed it had several flaws. For example:
 
 Etc. (By no means a comprehensive list! Heh.)
 
-Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with NetHack Modern, despite deriving most artwork from the same source; hence I’ve called this spinoff NetHack Medieval, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
+Game-icons.net has also added lots of content in the last 10 years. So while I set out simply to rectify some of these issues, I ended up redoing the entire thing from scratch. The result has little in common with NetHack Modern, despite getting most artwork from the same source; hence I’ve called this spinoff NetHack Medieval, instead. (Well, back in the day art tended to be more intricate, while most Modern art is comparatively simple; so I reckon the name change is only appropriate. 🤷)
 
 FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Tileset#Default_tileset) is incomplete, and their [list of tiles](https://nethack.fandom.com/wiki/List_of_vanilla_NetHack_tiles) is slightly out of order. To be sure mine were exactly right, I tested everything myself in game, using the latest version of NetHack. All of this research & editing took me about a month, so you’re welcome!
 
