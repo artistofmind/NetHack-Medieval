@@ -3,9 +3,9 @@
 ### Contents
 
 1. [Introduction](https://github.com/artistofmind/NetHack-Medieval/blob/main/README.md#1-introduction)
-2. [Instructions](https://github.com/artistofmind/NetHack-Medieval/blob/main/README.md#2-intsructions)
-3. [Why This Project](https://github.com/artistofmind/NetHack-Medieval/blob/main/README.md#3-why-this-project)
-4. [Looking Forward](https://github.com/artistofmind/NetHack-Medieval/blob/main/README.md#3-looking-forward)
+2. [Instructions](https://github.com/artistofmind/NetHack-Medieval/tree/main?tab=readme-ov-file#2-instructions)
+3. [Why This Project](https://github.com/artistofmind/NetHack-Medieval/tree/main?tab=readme-ov-file#3-why-this-project)
+4. [Looking Forward](https://github.com/artistofmind/NetHack-Medieval/tree/main?tab=readme-ov-file#3-looking-forward)
 
 ---
 
