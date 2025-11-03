@@ -2,10 +2,10 @@
 
 ### Contents
 
-1. Introduction
-2. Instructions
-3. Why This Project
-4. Looking Forward
+1. [Introduction](https://github.com/artistofmind/NetHack-Medieval/edit/main/README.md#1-introduction)
+2. [Instructions](https://github.com/artistofmind/NetHack-Medieval/edit/main/README.md#2-intsructions)
+3. [Why This Project](https://github.com/artistofmind/NetHack-Medieval/edit/main/README.md#3-why-this-project)
+4. [Looking Forward](https://github.com/artistofmind/NetHack-Medieval/edit/main/README.md#3-looking-forward)
 
 ---
 
