@@ -1,4 +1,6 @@
-# Contents
+# NetHack Medieval
+
+### Contents
 
 1. Introduction
 2. Instructions
@@ -9,9 +11,9 @@
 
 ## 1. Introduction
 
-Introducing NetHack Medieval: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail to provide a rich experience when viewing one room at a time — win / win!
+Presenting NetHack Medieval: a complete tileset for NetHack 3.6.7, with unique icons for nearly everything. These tiles actually convey more information than the original ASCII; and since they’re made with vector graphics of a single color each, the result is as clean & crisp as any font. Every weapon, tool, potion etc. looks distinct, yet still “of a piece” with other items of that type — so you can tell what everything is at a glance. It’s designed to be legible when viewing the whole map at once, yet there’s enough detail here to provide a rich experience when viewing one room at a time — win / win! (Who said you couldn’t have your cake and eat it, too? 😛)
 
-Based on NetHack Modern by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin its second head.)
+Based on NetHack Modern by Tower Hufham, this set likewise uses graphics from the open-source repository [Game-icons.net](https://game-icons.net), by Delapouite, Lorc, Caro Asercion, et al., modified slightly by yours truly. (For example, the Hawaiian shirt began as a polo shirt from that site; I extended the button flap and added flowers. I also gave the ettin a second head. Because ettins are two-headed giants, as every Monty Python fan knows. 😉 *“All right, not biscuits. But let’s kill him anyway!”*)
 
 ---
 
@@ -40,7 +42,7 @@ I was using NetHack Modern when I noticed it had several flaws. For example:
 
 - No two purple tiles were the same color (just really close).
 - Some icons were identical to others. E.g. you couldn’t tell a master lich from an arch-lich, or a baby worm from an adult one. You also couldn’t tell an open door from a doorway, so sometimes I tried closing a door that wasn’t there. 😊
-- Some icons were clearly placeholders. E.g. unicorns & ki-rins were just regular horses.
+- Some icons were clearly just placeholders. E.g. unicorns & ki-rins were simply regular horses.
 - Some icons were missing altogether. E.g. there was no unique stethoscope or lockpick.
 - Rays & explosions merely repeated one tile each, regardless of direction.
 - Statues were simply a copy-paste of the first section converted to grayscale. This meant their values differed wildly, with e.g. statues of white monsters still appearing white, and red ones looking blacker than “black” — making it hard to tell if something even was a statue!
@@ -57,13 +59,13 @@ FWIW, Fandom’s [map of the default tileset](https://nethack.fandom.com/wiki/Ti
 
 ## 4. Looking Forward
 
-I originally had unique tiles for all the gems (including worthless ones); all four bags and gray stones; the real & fake amulets of Yendor; both flutes, harps, whistles, candles, lamps; the cornuthaum & dunce cap. The amber stone even had a fossilized mosquito in it. 🙂 Alas, this caused my tiles to contain spoilers! (You could identify these items just by looking at them.) So I had to build in some redundancy, as in every other tileset out there. 😕
+I originally had unique tiles for all the gems (including worthless ones); all four bags and gray stones; the real & fake amulets of Yendor; both flutes, harps, whistles, candles, lamps; the cornuthaum & dunce cap. The amber stone even had a fossilized mosquito in it. 🙂 Alas, this caused my tiles to contain spoilers! (You could identify those items just by looking at them.) So I had to build in some redundancy, as in every other tileset out there. 😕
 
-Perhaps a future version of NetHack will always show the first icon till an item is identified, and only then change it? Or else randomize the tiles assigned to those items, as with potions & wands? . . . As it is, it’s weird having separate slots for all these things when you can’t actually use them. 😐 I also found a bug, whereby the aquamarine stone sometimes gets assigned the sapphire’s icon, depending on whether it’s called a green or blue gem in that particular session of the game. (So, even if that tile were unique, it sometimes wouldn’t get used.)
+Perhaps a future version of NetHack will always show the first icon till an item is identified, and only then change it? Or else randomize the tiles assigned to those items, as with potions & wands? . . . As it is, it’s weird having separate slots for all these things when you can’t actually use them. 🤨 I also found a bug, whereby the aquamarine stone sometimes gets assigned the sapphire’s icon, depending on whether it’s called a green or blue gem in that particular session of the game. (So, even when that tile is unique, it sometimes doesn’t get used, and one of the others is used twice.)
 
-Game-icons.net also has some pictures I really wanted to use, but couldn’t. For example, they have an image specifically for holy water. It would be so cool if a future version of NetHack has three different “clear potion” tiles, defaults to the uncursed one and only changes when it’s identified as either blessed or cursed. If and when that day comes, I am ready to update this set accordingly. 🙂
+Game-icons.net also has some pictures I really wanted to use, but couldn’t. For instance, they have an image specifically for holy water. It would be so cool if a future version of NetHack has three different “clear potion” tiles, defaults to the uncursed one and only changes when it’s identified as either blessed or cursed. If and when that day comes, I am ready to update this set accordingly. 🙂
 
-Likewise, it would be nice if wand rays could be bi-directional along each axis, but I’d need twice as many tile slots to achieve that. (As it is, they always read from West-East / South-North.) I guess it’s safe to say NetHack Medieval isn’t just complete, it’s more-than-complete: I would have added even more variety if I’d been allowed to!
+Likewise, it would be nice if wand rays could be bi-directional along each axis, but I’d need twice as many tile slots to achieve that. (As it is, they always read from West–East / South–North.) I guess it’s safe to say NetHack Medieval isn’t just complete, it’s more-than-complete: I would have added even more variety if I’d been allowed to!
 
 Be assured I will keep this tileset up to date for as long as I’m alive and able. So when a new version of NetHack adds more tiles, so will I. 🙂
 
